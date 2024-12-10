@@ -39,7 +39,7 @@ Our premier language learning app:
 - Tailored for students, travelers, and global communicators.
 
 ### **4. TeamOpenSmartGlasses**
-The open-source division of Mentra Labs, focusing on:
+Mentra Labs is a founding member of the open source collective TeamOpenSmartGlasses, focusing on:
 
 - Developing and maintaining **AugmentOS**.
 - Creating tools and libraries for third-party developers.
