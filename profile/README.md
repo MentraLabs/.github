@@ -1,6 +1,7 @@
 # Mentra Labs
 
-<img width="1159" alt="image" src="https://github.com/user-attachments/assets/4f768151-b6c4-4d84-a642-a5ba0f5d0626" />
+<img width="469" alt="image" src="https://github.com/user-attachments/assets/cb227c7c-1263-4f03-bf1a-97ef38aad63d" />
+
 
 
 We're building the open source operating system for smart glasses.
