@@ -4,6 +4,8 @@ Building the open source operating system for smart glasses.
 
 https://Mentra.Glass
 
+For public repositories, please visit [Mentra-Community](https://github.com/organizations/Mentra-Community).
+
 ## 📞 Contact
 
 Have questions or ideas? Reach out to us!
