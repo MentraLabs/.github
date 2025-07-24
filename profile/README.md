@@ -15,5 +15,5 @@ Have questions or ideas? Reach out to us!
 
 ---
 
-### © 2024 Mentra Labs
+### © 2025 Mentra Labs
 *"Empowering brains, one interface at a time."*
